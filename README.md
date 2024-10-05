@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Sanya!
 - I enjoy researching in the field of machine learning!
-- I’m currently learning Flutter & Java :)
+- I’m currently learning Spring Boot :)
 - Contact: sanyakapoor2705@gmail.com
 
 <!---
