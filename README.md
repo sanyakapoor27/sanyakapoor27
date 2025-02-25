@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Sanya!
 - I enjoy researching in the field of machine learning!
-- I’m currently learning Spring Boot :)
+- I’m currently learning FastAPI :)
 - Contact: sanyakapoor2705@gmail.com
 
 <!---
